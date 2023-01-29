@@ -7,10 +7,10 @@ You can also change page on clicking anywhere on the app except show details bot
 When you click on "Star Movie App" title page will go down and on first page it will show snackbar "Already on First Page".
 
 Dependenices Used in this app are,
-1. Google Fonts
-2. Http 
-3. Rating Bar
-4. Slidable 
+1. http ~(https://pub.dev/packages/http)
+2. Google Fonts. ~(https://pub.dev/packages/google_fonts)
+3. GNav. ~(https://pub.dev/packages/google_nav_bar/install)
+4. Slidable ~(https://pub.dev/packages/flutter_slidable)
 
 The App will display you the main page along with fresh/modren UI and on clicking Show details you will be redirected to another screen where details of same movie 
 will be displayed to you.
