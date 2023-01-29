@@ -1,16 +1,14 @@
-# newsappflutter
+# Fluuter Movie App
 
-A new Flutter project.
+In this project I have use Movie Api to Fetch data from the api.
 
-## Getting Started
+You can also change page on clicking anywhere on the app except show details bottom and "Star Movie App" title.
 
-This project is a starting point for a Flutter application.
+When you click on "Star Movie App" title page will go down and on first page it will show snackbar "Already on First Page".
 
-A few resources to get you started if this is your first Flutter project:
+Dependenices Used in this app are,
+1. Google Fonts
+2. Http 
+3. Rating Bar
+4. Slidable 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
