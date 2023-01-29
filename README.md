@@ -19,5 +19,5 @@ I have add scrollable description section so you will not have to scroll all the
 
 Rating also perform important roll in all this you can check the code.
 
-I have divided the code into mulitple folders to make it better in peroformance and to understand. 
+I have divided the code into mulitple folders to make it better in performance and to understand. 
 
